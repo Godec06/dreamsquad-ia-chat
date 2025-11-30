@@ -172,10 +172,11 @@ um comando para instalar dependências,
 
 um comando para subir o Ollama,
 
-```
 um comando para rodar a API.
 
 makefile
 Copiar código
 
 ::contentReference[oaicite:0]{index=0}
+
+```
