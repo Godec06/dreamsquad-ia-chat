@@ -27,8 +27,6 @@ Depois de instalar o Ollama, baixe o modelo que será usado (por padrão `llama3
 ollama pull llama3.1
 Se a máquina for mais fraca, é possível usar um modelo menor (ex: llama3.2:1b) ajustando o .env.
 
-```
-
 2. Configuração do ambiente
 2.1. Clonar o projeto (ou extrair o zip)
 Entre na pasta do projeto, por exemplo:
@@ -174,6 +172,7 @@ um comando para instalar dependências,
 
 um comando para subir o Ollama,
 
+```
 um comando para rodar a API.
 
 makefile
