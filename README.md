@@ -14,7 +14,6 @@ O agente:
 - identifica quando a pergunta é **cálculo numérico**
 - usa a *tool* de cálculo para obter o resultado **exato** e depois explica em texto
 
----
 
 ## 1. Pré-requisitos
 
@@ -27,6 +26,8 @@ Depois de instalar o Ollama, baixe o modelo que será usado (por padrão `llama3
 ```bash
 ollama pull llama3.1
 Se a máquina for mais fraca, é possível usar um modelo menor (ex: llama3.2:1b) ajustando o .env.
+
+```
 
 2. Configuração do ambiente
 2.1. Clonar o projeto (ou extrair o zip)
